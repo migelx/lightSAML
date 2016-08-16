@@ -24,6 +24,13 @@
             "LightSaml\\": "src/"
         }
     },
+    "repositories":
+    [
+        {
+            "type": "vcs",
+            "url": "https://github.com/migelx/xmlseclibs"
+        }
+    ],
     "require": {
         "php": ">=5.5.1",
         "robrichards/xmlseclibs": "~2.0",
