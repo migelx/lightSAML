@@ -33,7 +33,7 @@
     ],
     "require": {
         "php": ">=5.5.1",
-        "robrichards/xmlseclibs": "~2.0",
+        "robrichards/xmlseclibs": "dev-bugfix",
         "symfony/console": "~2.3|~3.0",
         "symfony/http-foundation": "~2.3|~3.0",
         "symfony/event-dispatcher": "~2.3|~3.0"
